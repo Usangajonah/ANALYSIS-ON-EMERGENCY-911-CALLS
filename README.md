@@ -17,3 +17,13 @@ For this project I will be analysing some 911 (emergency calls) data from Kaggle
 * twp: String variable, Township
 * addr: String variable, Address  
 * e: String variable, Dummy variable (always 1)
+
+You can read the full documentation [here]()
+
+other relevant links:
+
+[Twitter](https://twitter.com/Jobenofficial?t=F06epko9lD5L8p3-VkkT9w&s=09)
+
+[LinkedIn](https://www.linkedin.com/in/jonahusanga)
+
+[Medium](https://usangajonah.medium.com/)
